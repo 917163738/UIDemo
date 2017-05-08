@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<!--<input>-->
+<p id="helloweb">这是一个webview。</p>
+<p id="helloweb2">这是一个webview。</p>
+<button onclick="window.myObj.fun()">这是webview按钮(点击调用原生方法)</button>
+<input id="text" type="text" placeholder="输入发给原生数据"/>
+<button onclick="fun2()">这是webview按钮(点击发送给原生数据)</button>
+<script>
+    function funFromjs(){
+    document.getElementById("helloweb").innerHTML="原生调用js方法成功";
+    }
+    function funFromjs2(text){
+    document.getElementById("helloweb2").innerHTML="接收到原生发来数据："+text;
+    }
+    function fun2(){
+    window.myObj.fun2(document.getElementById("text").value);
+    }
+
+
+</script>
+</body>
+</html>

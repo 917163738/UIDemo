@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_fragment">#f5f5f5</color>
+    <color name="bg_title">#00B870</color>
+    <color name="bg_title_dark">#058e58</color>
+    <color name="item_click">#f0f0f0</color>
+
+
+    <color name="transparent">#00000000</color>
+    <color name="text_black">#505050</color>
+    <color name="text_gray">#808080</color>
+    <color name="divider">#d4d4d4</color>
+
+    <color name="background_tab_pressed">#8833B5E5</color>
+    <color name="bg">#EAEAEA</color>
+    <color name="no_back">#ffffffff</color>
+    <color name="sider_bg">#353535</color>
+    <color name="sider_text_color">#B5B5B5</color>
+    <color name="sider_bg_p">#232323</color>
+    <color name="sider_divider">#2B2B2B</color>
+    <color name="title_color">#F10583</color>
+    <color name="title_color_p">#B40046</color>
+    <color name="text_grey">#B8B8B8</color>
+    <color name="pink">#E04C9A</color>
+    <color name="bg_store">#F654A9</color>
+    <color name="bg_store_p">#D43287</color>
+    <color name="text_main">#F00085</color>
+    <color name="text_lightb">#909090</color>
+    <color name="dialog_divider">#666666</color>
+    <color name="black_22">#222222</color>
+    <color name="stroke_color">#DEDEDE</color>
+    <color name="bg_2v">#F4F4F4</color>
+    <color name="bg_schedule">#F7F7F7</color>
+    <color name="note_point">#949494</color>
+    <color name="alq_no">#F591C5</color>
+    <color name="alq_ing">#FA9490</color>
+    <color name="white">#ffffff</color>
+    <color name="job_ing">#00CEFF</color>
+    <color name="job_ed">#FC3063</color>
+    <color name="bg_cancel">#E9E9E9</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="bg_code">#6D6966</color>
+</resources>

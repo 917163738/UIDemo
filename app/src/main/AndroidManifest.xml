@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.xmnode.demo">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-feature android:name="android.hardware.camera"/>
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.RefreshListAcitivty"/>
+        <activity android:name=".activity.RoundAcitivty"/>
+        <activity android:name=".activity.MasonryAcitivty"/>
+        <activity android:name=".activity.WebViewActivity"/>
+        <activity android:name=".activity.ViewPagerActivity"/>
+        <activity android:name=".activity.DrawerLayoutActivity"/>
+        <activity android:name=".activity.CropImageActivity"/>
+        <activity android:name="com.soundcloud.android.crop.CropImageActivity"/>
+        <activity android:name=".activity.SendCodeActivity"/>
+        <activity android:name=".activity.RippleActivity"/>
+        <activity android:name=".activity.QrcodeActivity"/>
+        <activity android:name="com.google.zxing.client.android.CaptureActivity"/>
+        <activity android:name="com.google.zxing.client.android.encode.EncodeActivity"/>
+        <activity android:name=".activity.ImageScaleActivity"/>
+        <activity android:name=".activity.SlidingTabActivity"/>
+        <activity android:name=".activity.TagActivity"/>
+        <activity android:name=".activity.GuaguakaActivity"/>
+        <activity android:name=".activity.VolumeActivity"/>
+        <activity
+            android:name=".activity.ToolbarActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".activity.GifActivity"/>
+        <activity android:name=".activity.GoodsDetailActivity">
+        </activity>
+        <activity android:name=".activity.AddCartActivity">
+        </activity>
+        <activity android:name=".activity.AvatarToolbarSample">
+        </activity>
+        <activity android:name=".activity.Main2Activity"
+            android:launchMode="singleTask">
+
+        </activity>
+        <activity android:name=".activity.TestActivity">
+        </activity>
+    </application>
+
+</manifest>

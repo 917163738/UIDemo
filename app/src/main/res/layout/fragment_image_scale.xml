@@ -1,0 +1,14 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xmnode.demo.fragment.ImageScaleFragment"
+    android:background="@android:color/background_dark">
+
+    <uk.co.senab.photoview.PhotoView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pv_image"
+        android:layout_gravity="center_vertical" />
+
+</FrameLayout>

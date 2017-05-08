@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\project\\xmnode\\project\\Demo\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__divider.9.png",
+        "source": "E:\\project\\xmnode\\project\\Demo\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__divider.9.png"
+    },
+    {
+        "merged": "E:\\project\\xmnode\\project\\Demo\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__ic_done.png",
+        "source": "E:\\project\\xmnode\\project\\Demo\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__ic_done.png"
+    },
+    {
+        "merged": "E:\\project\\xmnode\\project\\Demo\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__ic_cancel.png",
+        "source": "E:\\project\\xmnode\\project\\Demo\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__ic_cancel.png"
+    },
+    {
+        "merged": "E:\\project\\xmnode\\project\\Demo\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__tile.png",
+        "source": "E:\\project\\xmnode\\project\\Demo\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__tile.png"
+    }
+]

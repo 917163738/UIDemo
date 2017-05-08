@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <!--主界面-->
+    <string name="main_refresh">下拉刷新/上拉加载</string>
+    <string name="main_multi_photo_display">瀑布流</string>
+    <string name="main_round_photo_display">圆角控件</string>
+    <string name="main_sliding_tab">顶部左右滑动TAB</string>
+    <string name="main_sliding_menu">侧滑菜单</string>
+    <string name="main_image_scale">支持缩放全屏图片</string>
+    <string name="main_qrcode">二维码扫描</string>
+    <string name="main_iamge_gallery">轮播图+指示器</string>
+    <string name="main_image_crop">图片裁剪</string>
+    <string name="main_js">WebView通过JS与原生交互</string>
+    <string name="main_ripple">点击水波纹效果</string>
+    <string name="main_sendcode">验证码发送</string>
+
+    <string name="footer_loading">加载中，请稍候…</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--图片裁剪-->
+    <string name="get_image">获取图片</string>
+
+    <!--二维码界面-->
+    <string name="qrcode_scan">扫描二维码</string>
+    <string name="qrcode_result">扫描结果:</string>
+    <string name="qrcode_hint">输入文字生成二维码</string>
+    <string name="qrcode_generate">生成二维码</string>
+
+    <string name="lorem">
+        Lorem ipsum macu macu dolor sit amet, consectetur adipiscing elit. Did nt wan na addm ore la yout stoth e samp le. Donec vehicula sem a malesuada rhoncus. Pellentesque ut dolor a dui porttitor porta lacinia non libero. Nunc volutpat arcu quis quam convallis molestie. Etiam ac tristique sem, id commodo justo. Phasellus congue tincidunt lectus, at dignissim ligula maximus eu. Quisque interdum nunc eget tellus bibendum suscipit. Phasellus feugiat ultricies posuere. Nullam porta accumsan velit, ut rutrum massa fermentum eu. Nunc ac bibendum nunc. Mauris eu ultricies ipsum. Ut id dolor dui. Pellentesque dictum dui vel tempus maximus. Vivamus non nisi quis libero scelerisque pretium. Ut eu tristique justo. Sed pellentesque placerat quam, ut ultricies turpis feugiat a. Aliquam a volutpat risus.
+
+Praesent at lectus semper, suscipit elit in, facilisis massa. Phasellus sed vestibulum ante, a euismod sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin tincidunt orci augue, a porta odio lacinia eu. Nunc in congue risus. Maecenas commodo nibh ac enim fermentum, eu sagittis massa blandit. Vestibulum elementum massa nec dapibus mollis. Etiam porta, est sit amet aliquet porta, odio elit finibus risus, id rutrum purus mi non ipsum. Nulla viverra nec enim sed venenatis.
+
+Maecenas mattis, erat et viverra euismod, neque diam porttitor tellus, in fringilla metus est id augue. Nunc at metus cursus, porttitor nisi vitae, congue diam. Curabitur ligula massa, ullamcorper eget scelerisque vel, pharetra ac sapien. Ut auctor luctus ultricies. Nullam semper tortor ac elementum luctus. In et tempus ex. Praesent sodales, dolor id volutpat elementum, ligula enim euismod odio, maximus sodales magna neque nec neque. Curabitur pretium nisl neque, consequat aliquet dui tincidunt ac. Vivamus augue nunc, aliquet eu ex a, ultrices aliquam lorem. Duis nibh lectus, ultricies vel iaculis sit amet, imperdiet id sapien. Duis scelerisque sodales metus eu rutrum. Suspendisse posuere nisi ac magna consequat, eu vestibulum ipsum venenatis. Suspendisse auctor nisi nec leo venenatis tristique.
+
+Praesent tincidunt lorem sit amet mi consequat cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent vitae blandit sapien. Curabitur est sapien, lobortis sit amet facilisis vel, faucibus eu quam. Nam tempus libero at tellus tempor laoreet. Pellentesque quam lorem, tincidunt in molestie eget, dictum vel risus. Nunc gravida convallis mattis.
+    </string>
+</resources>

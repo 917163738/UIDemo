@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+    <include layout="@layout/layout_title"/>
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#666"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(上面是webview,下面是原生界面)"/>
+    <Button
+        android:id="@+id/btn_webview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="这是原生按钮(点击调用js方法)"/>
+    <EditText
+        android:id="@+id/et_send_to_js"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="输入发给JS数据"/>
+    <Button
+        android:id="@+id/btn_send_to_js"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="发送给JS"/>
+</LinearLayout>
